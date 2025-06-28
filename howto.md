@@ -60,3 +60,19 @@ If you want a starting point, begin by writing a simple parser and then use ASM 
 7. https://www.gnu.org/software/kawa/gnu.bytecode/
 8. https://web.archive.org/web/20120207040236/http://asm.ow2.org/
 9. https://commons.apache.org/proper/commons-bcel/
+
+### Jasmine 
+
+1. https://www.ibr.cs.tu-bs.de/projects/jasmin/tutorial.html
+2. https://web.mit.edu/javadev/packages/jasmin/doc/
+3. https://jasmin.sourceforge.net/
+### Jflex
+1. https://jflex.de/
+2. http://www2.cs.tum.edu/projects/cup/
+
+### CUP
+1. https://www.cs.princeton.edu/~appel/modern/java/CUP/manual.html
+2. https://sites.cc.gatech.edu/gvu/people/Faculty/hudson/java_cup/manual.v0.9d.html
+
+### CUP 2
+1. https://www2.in.tum.de/~petter/cup2/
